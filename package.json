@@ -1,0 +1,30 @@
+{
+  "name": "mblog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/safestart"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "body-parser": "1.9.0",
+    "canvas": "*",
+    "connect-multiparty": "^1.2.5",
+    "cookie-parser": "1.3.3",
+    "debug": "2.1.0",
+    "ejs": "^1.0.0",
+    "express": "4.9.7",
+    "express-session": "1.8.2",
+    "finalhandler": "^1.1.1",
+    "gm": "^1.16.0",
+    "graphicsmagick": "*",
+    "http-proxy": "1.5.3",
+    "imagemagick": "0.1.3",
+    "moment": "^2.8.3",
+    "morgan": "1.2.3",
+    "mysql": "2.5.2",
+    "node-uuid": "^1.4.1",
+    "nodemailer": "1.3.0",
+    "serve-favicon": "2.0.1"
+  }
+}

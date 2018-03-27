@@ -1,0 +1,23 @@
+
+[2018-03-27 11:03:33] [ERROR] Error: Cannot find module 'ejs'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at new View (D:\node源码\mblog-master\node_modules\express\lib\view.js:79:30)
+    at EventEmitter.render (D:\node源码\mblog-master\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (D:\node源码\mblog-master\node_modules\express\lib\response.js:971:7)
+    at D:\node源码\mblog-master\routes\index.js:81:21
+    at D:\node源码\mblog-master\routes\index.js:71:21
+    at Query._callback (D:\node源码\mblog-master\utils\dbutil.js:373:25)
+[2018-03-27 11:03:36] [ERROR] Error: Cannot find module 'ejs'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at new View (D:\node源码\mblog-master\node_modules\express\lib\view.js:79:30)
+    at EventEmitter.render (D:\node源码\mblog-master\node_modules\express\lib\application.js:570:12)
+    at ServerResponse.render (D:\node源码\mblog-master\node_modules\express\lib\response.js:971:7)
+    at D:\node源码\mblog-master\routes\index.js:81:21
+    at D:\node源码\mblog-master\routes\index.js:71:21
+    at Query._callback (D:\node源码\mblog-master\utils\dbutil.js:373:25)
